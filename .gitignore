@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# WinBGIm library (third-party — download separately, see README)
+/winbgim/
+*.a
+
+# Editor / OS
+.vscode/
+.idea/
+*.layout
+*.depend
+Thumbs.db
+.DS_Store
